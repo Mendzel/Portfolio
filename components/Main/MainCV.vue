@@ -2,7 +2,7 @@
   <div class="section cv-section reveal" id="cv">
     <h2 class="section-title">CV</h2>
     <div class="cv-section_content">
-      <a href="~/assets/Konrad_Mendzelewski_-_Frontend_Developer-2.pdf" target="_blank">
+      <a href="~/assets/Konrad_Mendzelewski_-_Frontend_Developer-2.pdf" download>
         <div class="cv-section_content-box">
           <Icon name="mdi:file-pdf" size="130" />
           <p>Download my CV</p>
@@ -50,7 +50,7 @@
   margin: 20px;
 }
 
-@media  screen and (max-width: 600px) {
+@media  screen and (max-width: 1050px) {
   .cv-section_content-box {
     margin: 0;
     width: 100%;

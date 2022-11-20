@@ -114,6 +114,7 @@ const projects: Project[] = PROJECTS
     flex-direction: column;
     height: 100%;
     align-items: center;
+    margin-bottom: 8vh;
 
     &_info,
     &_visualization {

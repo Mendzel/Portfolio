@@ -138,8 +138,33 @@ function buildEmailData() {
 }
 
 @media screen and (max-width: 600px) {
-  .contact-section_content {
-    flex-direction: column;
+  .contact-section {
+    &_content-box {
+      width: 100%;
+
+      form {
+        input,
+        textarea,
+        label {
+          width: 80%;
+        }
+      }
+    }
+    &_content {
+      flex-direction: column;
+    }
+  }
+}
+
+@media screen and (max-width: 1050px) {
+  .contact-section {
+    form {
+      input,
+      textarea,
+      label {
+        width: 80%;
+      }
+    }
   }
 }
 </style>

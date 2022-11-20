@@ -1,11 +1,6 @@
-Uzupelnienie info o projektach w repo i przekopiowanie opisów i linkow tutaj
-
-
 Deploy:
-- test pobierania pdfa
 - Analytics
 - Optymalizacja grafik
-- Cache (config nuxta)
 - Podmiana screenow apki dla portfolio
 
 

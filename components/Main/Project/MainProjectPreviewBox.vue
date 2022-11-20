@@ -70,4 +70,10 @@ function changeToDesktop() {
   justify-content: center;
   align-items: center;
 }
+
+@media screen and (max-width: 1050px) {
+  .visualization {
+    width: 100%;
+  }
+}
 </style>

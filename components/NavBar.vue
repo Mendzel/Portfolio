@@ -52,7 +52,7 @@ window.addEventListener("scroll", showNavBar)
   animation: scaleInCenter 1s ease 0s 1 normal forwards;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1050px) {
   .scale-in {
     display: none;
   }

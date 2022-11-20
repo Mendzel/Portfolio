@@ -60,7 +60,9 @@ export const PROJECTS: Project[] = [
             }
         ],
         mobilePreview: "https://i.imgur.com/cAkfqeJ.jpg",
-        desktopPreview: "https://i.imgur.com/Od2dJMq.png"
+        desktopPreview: "https://i.imgur.com/Od2dJMq.png",
+        websiteLink: "https://fantasy-plk-dev.herokuapp.com/home",
+        repoLink: "https://github.com/Mendzel/Fantasy-euroleague"
     },
     {
         name: "Fantasy PLK",
@@ -86,13 +88,15 @@ export const PROJECTS: Project[] = [
                     "https://i.imgur.com/xicAOw7.png"
             }
         ],
-        mobilePreview: "https://i.imgur.com/cAkfqeJ.jpg",
-        desktopPreview: "https://i.imgur.com/Od2dJMq.png"
+        mobilePreview: "https://i.imgur.com/mOe7Zjd.jpg",
+        desktopPreview: "https://i.imgur.com/EFJhUsw.png",
+        websiteLink: "https://fantasy-plk.pl/playoffs",
+        repoLink: "https://github.com/Mendzel/Fantasy-PLK"
     },
     {
         name: "This Portfolio",
         description:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lobortis aliquam nunc, eu aliquam nunc facilisis luctus. Ut sed eros odio. Fusce libero nulla, consectetur et malesuada a, molestie tincidunt lectus. Sed massa eros, tincidunt id metus in, accumsan",
+            "Portfolio page with a showcase of my personal projects. App is built with Vue 3 + Nuxt3, but it's Client Side Rendered to simplify DOM access.",
         stackIcons: [
             {
                 name: "Vue 3",
@@ -118,7 +122,9 @@ export const PROJECTS: Project[] = [
                 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"
             }
         ],
-        mobilePreview: "https://i.imgur.com/cAkfqeJ.jpg",
-        desktopPreview: "https://i.imgur.com/Od2dJMq.png"
+        mobilePreview: "https://i.imgur.com/sjl3ns5.png",
+        desktopPreview: "https://i.imgur.com/FAHYPl3.png",
+        websiteLink: "https://mendzel-dev.netlify.app/",
+        repoLink: "https://github.com/Mendzel/Portfolio"
     }
 ]

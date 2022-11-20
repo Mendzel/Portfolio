@@ -6,5 +6,7 @@ export interface Project {
     stackIcons: Icon[],
     mobilePreview: string,
     desktopPreview: string,
-    moreDetailsLink?: string
+    moreDetailsLink?: string,
+    websiteLink: string,
+    repoLink: string
 }
