@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre&family=Montserrat:wght@400;700&display=swap");
+
+$primary: #606060;
+$secondary: #d6ed17;
+$white: #ffffff;
+$black: #000000;
+
+$darkBlue: linear-gradient(
+  to right,
+  #0066ff,
+  #0054d0,
+  #0042a3,
+  #003178,
+  #01204f
+);
+$reddishOrange: linear-gradient(
+  to right,
+  #ffa200,
+  #f58400,
+  #e86400,
+  #db4000,
+  #cb0000
+);
+$darkGreen: linear-gradient(
+  to right,
+  #00cd8b,
+  #00d278,
+  #00d661,
+  #00da42,
+  #22dd00
+);
+
+$blueShadow: rgb(139, 139, 228);
+$redShadow: rgb(220, 146, 146);
+$greenShadow: rgb(94, 142, 96);
+
+$greenAlertText: #008000;
+$redAlertBackground: #f08080;
+$redAlertText: #d63535;
+$orangeAlertBackground: #FFE5B4;
+$orangeAlertText: #CC5500;
