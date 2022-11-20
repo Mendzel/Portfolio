@@ -18,8 +18,12 @@
       </div>
       <div class="project_info-buttons">
         <div style="display: flex">
-          <Button color="blue" icon="mdi:web">Website</Button>
-          <Button color="orange" icon="mdi:github">Repo</Button>
+          <a :href="project.websiteLink" target="_blank">
+            <Button color="blue" icon="mdi:web">Website</Button>
+          </a>
+          <a :href="project.repoLink" target="_blank">
+            <Button color="orange" icon="mdi:github">Repo</Button>
+          </a>
         </div>
         <div>
           <Button
@@ -75,6 +79,11 @@ const projects: Project[] = PROJECTS
         color: white;
       }
 
+      &-description {
+        line-height: 1.5;
+        white-space: pre-line;
+      }
+
       &-icons {
         display: flex;
 
@@ -98,6 +107,10 @@ const projects: Project[] = PROJECTS
     &-buttons {
       display: flex;
       justify-content: space-between;
+
+      a {
+        text-decoration: none;
+      }
     }
   }
 }

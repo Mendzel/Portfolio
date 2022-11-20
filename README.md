@@ -18,10 +18,10 @@ App is built with Vue 3 + Nuxt3, but it's Client Side Rendered to simplify DOM a
 ### Built With
 
 
-* [![Vue][Vue.js]][Vue-url]
-* [![Nuxt][Nuxt3]][Nuxt-url]
-* [![TypeScript][Typescript.ts]][Typescript-url]
-* [![Sass][scss]][scss-url]
+* [![Vue][Vue.js]][Vue-url] Vue 3
+* [![Nuxt][Nuxt3]][Nuxt-url] Nuxt 3
+* [![TypeScript][Typescript.ts]][Typescript-url] Typescript
+* [![Sass][scss]][scss-url] Sass
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

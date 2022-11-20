@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
     {
         name: "Fantasy Euroleague",
         description:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lobortis aliquam nunc, eu aliquam nunc facilisis luctus. Ut sed eros odio. Fusce libero nulla, consectetur et malesuada a, molestie tincidunt lectus. Sed massa eros, tincidunt id metus in, accumsan",
+            "*under development*\nSecond edition of my fantasy basketball app. With experience from previous version and fresh new ideas I've decided that the basic app could become a real browser game.\n\nThis time app will have actual users that can login and manage their teams.",
         stackIcons: [
             {
                 name: "Vue 3",
@@ -61,13 +61,14 @@ export const PROJECTS: Project[] = [
         ],
         mobilePreview: "https://i.imgur.com/cAkfqeJ.jpg",
         desktopPreview: "https://i.imgur.com/Od2dJMq.png",
-        websiteLink: "https://fantasy-plk-dev.herokuapp.com/home",
+        websiteLink: "https://fantasy-plk-dev.herokuapp.com",
         repoLink: "https://github.com/Mendzel/Fantasy-euroleague"
     },
     {
         name: "Fantasy PLK",
-        description:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lobortis aliquam nunc, eu aliquam nunc facilisis luctus. Ut sed eros odio. Fusce libero nulla, consectetur et malesuada a, molestie tincidunt lectus. Sed massa eros, tincidunt id metus in, accumsan",
+        description: `My first real app as a programmer.\n
+        It's custom fantasy game app, based on Polish basketball league used by me and my friends. App is in polish and is hosted on Google Firebase with a basic realtime database.\n
+        Most of it's functionality was to provide list of teams, squads and also scores of each player and match. App also has a hidden admin panel for me to update scores and squads rather than doing it manually in excel spreadsheet.`,
         stackIcons: [
             {
                 name: "Angular 12",
@@ -96,7 +97,7 @@ export const PROJECTS: Project[] = [
     {
         name: "This Portfolio",
         description:
-            "Portfolio page with a showcase of my personal projects. App is built with Vue 3 + Nuxt3, but it's Client Side Rendered to simplify DOM access.",
+            "Portfolio page with a showcase of my personal projects.\n App is built with Vue 3 + Nuxt3, but it's Client Side Rendered to simplify DOM access.",
         stackIcons: [
             {
                 name: "Vue 3",
