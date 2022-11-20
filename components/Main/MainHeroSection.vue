@@ -78,6 +78,7 @@
   &_image {
     display: flex;
     width: 30vw;
+    height: 100%;
     justify-content: center;
     align-items: flex-end;
 

@@ -59,8 +59,8 @@ export const PROJECTS: Project[] = [
                 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"
             }
         ],
-        mobilePreview: "https://i.imgur.com/cAkfqeJ.jpg",
-        desktopPreview: "https://i.imgur.com/Od2dJMq.png",
+        mobilePreview: "https://i.imgur.com/ZEhaWoO.jpg",
+        desktopPreview: "https://i.imgur.com/iVY2t6r.png",
         websiteLink: "https://fantasy-plk-dev.herokuapp.com",
         repoLink: "https://github.com/Mendzel/Fantasy-euroleague"
     },
@@ -89,8 +89,8 @@ export const PROJECTS: Project[] = [
                     "https://i.imgur.com/xicAOw7.png"
             }
         ],
-        mobilePreview: "https://i.imgur.com/mOe7Zjd.jpg",
-        desktopPreview: "https://i.imgur.com/EFJhUsw.png",
+        mobilePreview: "https://i.imgur.com/2Eeuwva.jpg",
+        desktopPreview: "https://i.imgur.com/cPnNP3S.png",
         websiteLink: "https://fantasy-plk.pl/playoffs",
         repoLink: "https://github.com/Mendzel/Fantasy-PLK"
     },
@@ -123,8 +123,8 @@ export const PROJECTS: Project[] = [
                 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"
             }
         ],
-        mobilePreview: "https://i.imgur.com/sjl3ns5.png",
-        desktopPreview: "https://i.imgur.com/FAHYPl3.png",
+        mobilePreview: "https://i.imgur.com/DVGIoN4.png",
+        desktopPreview: "https://i.imgur.com/eiCtMXM.png",
         websiteLink: "https://mendzel-dev.netlify.app/",
         repoLink: "https://github.com/Mendzel/Portfolio"
     }

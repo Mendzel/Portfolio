@@ -1,7 +1,0 @@
-Deploy:
-- Analytics
-
-
-Future:
-- Wirtualne CV
-- More Details dla projektow
