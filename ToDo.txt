@@ -1,7 +1,5 @@
 Deploy:
 - Analytics
-- Optymalizacja grafik
-- Podmiana screenow apki dla portfolio
 
 
 Future:

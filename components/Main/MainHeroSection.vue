@@ -24,7 +24,7 @@
       </div>
     </div>
     <div class="hero-section_image">
-      <img src="~/assets/picture-of-myself.png" alt="My picture" />
+      <img src="~/assets/Optimized-picture-of-myself.png" alt="My picture" />
     </div>
   </div>
 </template>
@@ -88,7 +88,7 @@
   }
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1500px) {
   .hero-section {
     &_image {
       img {

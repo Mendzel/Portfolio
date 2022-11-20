@@ -34,4 +34,16 @@ const props = defineProps(["framePicture"])
     margin: 3vh auto;
   }
 }
+
+@media screen and (min-width: 600px) and (max-width: 1500px) {
+  .phone {
+    height: 40vh;
+  }
+}
+
+@media screen and (min-width: 2000px) {
+  .phone {
+    height: 25vh;
+  }
+}
 </style>
