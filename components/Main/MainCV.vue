@@ -2,7 +2,7 @@
   <div class="section cv-section reveal" id="cv">
     <h2 class="section-title">CV</h2>
     <div class="cv-section_content">
-      <a href="~/assets/Konrad_Mendzelewski_-_Frontend_Developer-2.pdf" download>
+      <a href="~/static/CV.pdf" download>
         <div class="cv-section_content-box">
           <Icon name="mdi:file-pdf" size="130" />
           <p>Download my CV</p>
