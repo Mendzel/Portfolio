@@ -2,17 +2,12 @@
   <div class="section cv-section reveal" id="cv">
     <h2 class="section-title">CV</h2>
     <div class="cv-section_content">
-      <a href="https://pdfhost.io/v/5L9sqR6Pq_Frontend_Developer" target="_blank">
+      <a href="https://pdfhost.io/v/G1WUf4CaB_Konrad_Mendzelewski_CV_EN" target="_blank">
         <div class="cv-section_content-box">
           <Icon name="mdi:file-pdf" size="130" />
           <p>Download my CV</p>
         </div>
       </a>
-      <!-- <div class="divider"></div>
-      <div class="cv-section_content-box">
-        <Icon name="mdi:web" size="100" />
-        <p>Check my Virtual CV</p>
-      </div> -->
     </div>
   </div>
 </template>

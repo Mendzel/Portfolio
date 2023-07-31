@@ -18,7 +18,7 @@
       </div>
       <div class="project_info-buttons">
         <div style="display: flex">
-          <a :href="project.websiteLink" target="_blank">
+          <a v-if="project.websiteLink" :href="project.websiteLink" target="_blank">
             <Button color="blue" icon="mdi:web">Website</Button>
           </a>
           <a :href="project.repoLink" target="_blank">

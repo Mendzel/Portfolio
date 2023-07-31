@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
     {
         name: "Fantasy Euroleague",
         description:
-            "*under development*\nSecond edition of my fantasy basketball app. With experience from previous version and fresh new ideas I've decided that the basic app could become a real browser game.\n\nThis time app will have actual users that can login and manage their teams.",
+            "*Project abandoned*\nSecond edition of my fantasy basketball app. With experience from previous version and fresh new ideas I've decided that the basic app could become a real browser game.\n\nThis time app will have actual users that can login and manage their teams.",
         stackIcons: [
             {
                 name: "Vue 3",
@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
         ],
         mobilePreview: "https://i.imgur.com/ZEhaWoO.jpg",
         desktopPreview: "https://i.imgur.com/iVY2t6r.png",
-        websiteLink: "https://fantasy-plk-dev.herokuapp.com",
+        websiteLink: "",
         repoLink: "https://github.com/Mendzel/Fantasy-euroleague"
     },
     {

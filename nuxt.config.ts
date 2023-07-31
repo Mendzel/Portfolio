@@ -20,5 +20,9 @@ export default defineNuxtConfig({
         head: {
             script: [{ children: analytics }],
         },
-    }
+    },
+    meta: {
+        title: 'Mendzelewski Dev',
+    },
+    devServer: {}
 })
